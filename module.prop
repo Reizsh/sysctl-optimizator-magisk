@@ -1,0 +1,7 @@
+id=sysctlopt
+name=Sysctl Optimizator
+version=1.0.0
+versionCode=1
+author=Reizsh
+description=Changes the parameters of sysctl.
+license=GPL-3.0
